@@ -4,11 +4,10 @@
   <img width="1440" alt="image" src="https://github.com/fcj11/bilibili/assets/104499799/d20c8437-2f58-451e-ad1d-6e2b8486de07">
 </div>
 <h4>部份模块</h4>
-<div display='flex' width='100%'>
+<div display="flex" width='100%'>
+  <p>轮播图组件，鼠标置于轮播图暂停自动播放离开开启，可以通过点击按钮和圆点切换图片</p>
   <img width="50%" src="https://github.com/fcj11/bilibili/assets/104499799/e09f30a5-e9b4-4610-918c-46d068ebf2b5"></img>
-  <div width="50%">
-    <p>轮播图组件，鼠标置于轮播图暂停自动播放离开开启，可以通过点击按钮和圆点切换图片</p>
-  </div>
+  <div width="200px"height="200px"background-color= '#00AEEC'></div>
 </div>
 
 <div>
