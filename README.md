@@ -24,3 +24,7 @@
   <p>电梯模块 点击回到顶部</p>
   <img width="40%" height='300px'object-fit= "contain" src="https://github.com/fcj11/bilibili/assets/104499799/668e2bbf-65b7-426b-9651-ce7f26dc4c51"></img>
 </div>
+<div>
+  <p>登录部份部份样式</p>
+  <img width="1440" object-fit= "contain" src="https://github.com/fcj11/bilibili/assets/104499799/5aa559ec-8e8e-4897-9877-5c1df1b2c940"></img>
+</div>
