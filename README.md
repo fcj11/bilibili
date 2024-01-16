@@ -5,7 +5,7 @@
 </div>
 <h4>部份模块</h4>
 <div display='flex'>
-  <img width="720" src="https://github.com/fcj11/bilibili/assets/104499799/e09f30a5-e9b4-4610-918c-46d068ebf2b5"></img>
+  <img width="50%" src="https://github.com/fcj11/bilibili/assets/104499799/e09f30a5-e9b4-4610-918c-46d068ebf2b5"></img>
 </div>
 
 <div>
